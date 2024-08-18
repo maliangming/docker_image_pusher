@@ -1,1 +1,1 @@
-nfs-subdir-external-provisioner
+tomcat:10.0.14
