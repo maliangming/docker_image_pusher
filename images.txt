@@ -1,1 +1,1 @@
-kube-webhook-certgen
+jetstack/kube-webhook-certgen
