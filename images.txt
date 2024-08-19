@@ -1,1 +1,1 @@
-ingress-controller:v1.1.0
+lizhenliang/ingress-nginx-controller:v1.1.0
