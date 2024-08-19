@@ -1,1 +1,1 @@
-jetstack/kube-webhook-certgen
+gcr.io/distroless/base
