@@ -1,1 +1,1 @@
-tomcat:10.0.14
+kube-webhook-certgen:v1.1.1
