@@ -1,1 +1,1 @@
-tomcat:v1
+tomcat
