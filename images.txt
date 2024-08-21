@@ -1,1 +1,1 @@
-jenkins/jenkins:lts-jdk11
+tomcat:v1
