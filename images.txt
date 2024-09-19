@@ -1,1 +1,1 @@
-jumpserver/core:${VERSION}
+ jumpserver/core:latest
