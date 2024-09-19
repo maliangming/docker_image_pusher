@@ -1,1 +1,1 @@
- jumpserver/core:latest
+jumpserver/core:2.2.0
