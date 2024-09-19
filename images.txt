@@ -1,3 +1,4 @@
-jumpserver/koko:v3.6.4
-jumpserver/lion:v2.28.21
-jumpserver/magnus:v2.28.5 
+jumpserver/koko:v2.28.8
+jumpserver/lion:v2.28.8
+jumpserver/magnus:v2.28.8
+jumpserver/web:v2.28.8
