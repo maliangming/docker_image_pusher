@@ -1,1 +1,1 @@
-jumpserver/mariadb:10.6
+jumpserver/redis:6.2
