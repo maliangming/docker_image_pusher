@@ -1,1 +1,1 @@
-apache:latest
+apache:2.4.41
