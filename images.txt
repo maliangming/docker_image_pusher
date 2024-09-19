@@ -1,1 +1,1 @@
-jumpserver/core
+jumpserver/core:v4-ce
