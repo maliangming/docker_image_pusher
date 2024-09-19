@@ -1,1 +1,1 @@
-jumpserver/core:2.2.0
+apache:latest
