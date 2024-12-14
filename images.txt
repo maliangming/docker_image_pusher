@@ -1,1 +1,1 @@
-jumpserver/jms:latest
+redis:5.0
