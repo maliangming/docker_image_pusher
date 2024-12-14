@@ -1,1 +1,1 @@
-jumpserver/jms_all
+jms_v2.0.0
