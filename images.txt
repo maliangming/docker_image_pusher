@@ -1,1 +1,1 @@
-jumpserver:latest
+kube-apiserver:1.23.0
